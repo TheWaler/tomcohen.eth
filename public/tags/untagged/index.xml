@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on tomcohen.eth</title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on tomcohen.eth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Yes</copyright>
+    <lastBuildDate>Sun, 25 Sep 2022 11:12:29 +0100</lastBuildDate><atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m not a Bitcoin Maximalist (anymore)</title>
+      <link>/posts/bitcoin-maxi/</link>
+      <pubDate>Sun, 25 Sep 2022 11:12:29 +0100</pubDate>
+      
+      <guid>/posts/bitcoin-maxi/</guid>
+      <description>This is something I&amp;rsquo;ve been putting off writing for a while now, but it had to happen. The Bitcoin community gave me so much over the years, and I hope this will serve as a small nudge to making it as incredible as it used to. For years I was &amp;ldquo;the bitcoin person&amp;rdquo; in pretty much any group I was in. Bitcoin, not crypto. And for the past few months, I&amp;rsquo;ve slowly distanced myself from that label.</description>
+    </item>
+    
+  </channel>
+</rss>
